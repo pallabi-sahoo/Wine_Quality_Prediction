@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pallabi.sahoo/FSDS/Ineuron_industry_ready_projects/Wine_Quality_Prediction/mlruns/0/abe7f3383cd341798558ca6205695ab9/artifacts
+end_time: 1697628414590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abe7f3383cd341798558ca6205695ab9
+run_name: fearless-sponge-896
+run_uuid: abe7f3383cd341798558ca6205695ab9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697628405347
+status: 3
+tags: []
+user_id: pallabi.sahoo
