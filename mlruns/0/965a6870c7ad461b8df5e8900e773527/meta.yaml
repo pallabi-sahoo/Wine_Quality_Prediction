@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pallabi.sahoo/FSDS/Ineuron_industry_ready_projects/Wine_Quality_Prediction/mlruns/0/965a6870c7ad461b8df5e8900e773527/artifacts
+end_time: 1697622934606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 965a6870c7ad461b8df5e8900e773527
+run_name: judicious-pig-300
+run_uuid: 965a6870c7ad461b8df5e8900e773527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697622927659
+status: 3
+tags: []
+user_id: pallabi.sahoo

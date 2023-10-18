@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pallabi.sahoo/FSDS/Ineuron_industry_ready_projects/Wine_Quality_Prediction/mlruns/0/c0d78d1981eb45e5a361d4708b8608af/artifacts
+end_time: 1697623414823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0d78d1981eb45e5a361d4708b8608af
+run_name: shivering-ram-224
+run_uuid: c0d78d1981eb45e5a361d4708b8608af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697623408353
+status: 3
+tags: []
+user_id: pallabi.sahoo
